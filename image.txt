@@ -1,0 +1,11 @@
+file 'images/img_001.jpg'
+duration 10
+file 'images/img_002.jpg'
+duration 10
+file 'images/img_003.jpg'
+duration 10
+file 'images/img_004.jpg'
+duration 10
+file 'images/img_005.jpg'
+duration 10
+file 'images/img_006.jpg'
